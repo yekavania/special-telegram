@@ -1,5 +1,5 @@
 // 给文档树文档添加颜色 + 同级置顶（适配思源 3.8+ 虚拟化文档树）
-// 原脚本参考：https://ld246.com/article/1741359650489
+// 原脚本参考：https://github.com/yekavania/special-telegram
 // 本版在用户 2026-11-21 的纯颜色版基础上增加“同级置顶”：
 // - 不是原生“置顶”：原生置顶是全局置顶区（data/storage/pinned-docs.json），
 //   会把文档提到文档面板最上面，与层级无关。
